@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @qartik (Kartik)
-- 👀 I’m interested in programming langauges and compilers for quantum computation.
+# Hi there, I'm Kartik 👋
 
-<!---
-qartik/qartik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Quantum Compiler Engineer at **[Quantinuum](https://www.quantinuum.com/)** | Building programming languages and compilers for quantum computation | Chicago, IL
